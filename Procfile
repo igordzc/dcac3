@@ -1,1 +1,1 @@
-web: python t8.p
+web: python t8.py
