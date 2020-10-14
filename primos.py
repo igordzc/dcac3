@@ -15,7 +15,7 @@ def nao_entre_em_panico():
 
     primos = "2,"
 
-    while p< limete:
+    while p< limite:
         ehprimo = 1
         for i in range(2, numero):
             if numero % i == 0:
